@@ -4,4 +4,4 @@
 
 Discover how Zabbix’s webhook media type goes far beyond basic notifications. Learn to send flexible HTTP requests to tools like SIGNL4, ITSM platforms, or automation services such as n8n or even IoT platforms. Add custom logic with JavaScript and enable two-way integrations via the Zabbix API. Unlock powerful workflows and extend Zabbix into a true automation hub.
 
-This repository contains the Zabbix sample media types.
+This repository contains the Zabbix sample media types. This is a sample only and you can adapt it so your needs. Use at own risk. Not guarantee that it will work. 
